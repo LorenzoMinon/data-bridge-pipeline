@@ -1,0 +1,8 @@
+boto3
+psycopg2-binary
+pandas
+faker
+fastapi
+uvicorn
+requests
+python-dotenv
