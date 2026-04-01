@@ -4,3 +4,6 @@ __pycache__/
 data/raw/
 data/processed/
 .DS_Store
+venv/
+aws/
+awscliv2.zip
